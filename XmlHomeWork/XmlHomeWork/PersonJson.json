@@ -1,0 +1,14 @@
+{
+  "personOne": {
+    "Name": "KakYgodnoOne",
+    "Age": 24,
+    "Weight": 20,
+    "Height": 20
+  },
+  "personTwo": {
+    "Name": "KakYgodnoTwo",
+    "Age": 25,
+    "Weight": 25,
+    "Height": 25
+  }
+}

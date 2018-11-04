@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Program>
+  
+<LineOne>
+  <NameLine>Line One</NameLine>
+  <Size>20</Size>
+  <Color>Cyan</Color>
+</LineOne>
+  
+<LineTwo>
+  <NameLine>Line Two</NameLine>
+  <Size>10</Size>
+  <Color>Red</Color>
+</LineTwo>
+
+ </Program>

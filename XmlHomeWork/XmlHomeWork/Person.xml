@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Root>
+  <personOne>
+    <Name>KakYgodnoOne</Name>
+    <Age>24</Age>
+    <Weight>20</Weight>
+    <Height>20</Height>
+  </personOne>
+  
+  <personTwo>
+    <Name>KakYgodnoTwo</Name>
+    <Age>25</Age>
+    <Weight>25</Weight>
+    <Height>25</Height>
+  </personTwo>
+</Root>

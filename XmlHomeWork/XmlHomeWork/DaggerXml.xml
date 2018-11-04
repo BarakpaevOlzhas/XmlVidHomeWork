@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Root>
+  <daggerOne>
+    <Prise>2250</Prise>
+    <Range>850</Range>
+    <Size>200</Size>
+  </daggerOne>
+
+  <daggerTwo>
+    <Prise>2251</Prise>
+    <Range>950</Range>
+    <Size>150</Size>
+  </daggerTwo>  
+</Root>

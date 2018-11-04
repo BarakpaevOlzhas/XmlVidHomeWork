@@ -1,0 +1,12 @@
+{
+  "LineOne": {
+    "NameLine": "Line One",
+    "Size": 20,
+    "Color": "Cyan"
+  },
+  "LineTwo": {
+    "NameLine": "Line Two",
+    "Size": 10,
+    "Color": "Red"
+  }
+}

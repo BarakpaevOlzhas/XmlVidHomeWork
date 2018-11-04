@@ -1,0 +1,12 @@
+{
+  "daggerOne": {
+    "Price": 2250,
+    "Range": 850,
+    "Size": 200
+  },
+  "daggerTwo": {
+    "Price": 2250,
+    "Range": 850,
+    "Size": 200
+  }
+}
